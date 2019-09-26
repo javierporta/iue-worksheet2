@@ -206,8 +206,8 @@
                                 <rect key="frame" x="16" y="192" width="165" height="128"/>
                                 <color key="backgroundColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SWy-db-Dqi">
-                                <rect key="frame" x="202" y="192" width="196" height="128"/>
+                            <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="SWy-db-Dqi">
+                                <rect key="frame" x="212" y="192" width="186" height="128"/>
                                 <color key="backgroundColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
                         </subviews>
@@ -233,7 +233,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HeJ-ul-N5M" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2426.4000000000001" y="140.39408866995075"/>
+            <point key="canvasLocation" x="2426.0869565217395" y="140.21739130434784"/>
         </scene>
     </scenes>
     <resources>
